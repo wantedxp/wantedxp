@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div> 
   
-  <a href="https://www.instagram.com/flp.campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener noreferrer"></a>
+  <a href="https://www.instagram.com/flp.campos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 # 💻 Tech Stack:
  
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=wantedxp&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
