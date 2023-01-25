@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, PHP, HTML, JS, CSS.
 - 👯 I’m looking to collaborate on at the moment I'm dedicating myself to creating web pages and apis with django.
 - 📫 How to reach me: Discord: Filipe#1583.
--->
 ## 🌐 Socials:
 
 <div> 
